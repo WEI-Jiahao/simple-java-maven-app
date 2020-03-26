@@ -40,11 +40,11 @@ public class AppTest
         }
     }
 
-    @Test
-    public void testAppMain()
-    {
-        Assert.assertTrue(false);
-    }
+    // @Test
+    // public void wrongtest()
+    // {
+    //     Assert.assertTrue(false);
+    // }
 
     @After
     public void cleanUpStreams() {
